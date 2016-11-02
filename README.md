@@ -19,7 +19,11 @@
 ส่วนสำคัญของโปรแกรม lab4.cs  คือบรรทัดที่ 1 “using System” และเมธอด Main(string[] args)
 
 
- *  ให้ลบ source code ในบรรทัดที่ 2-5 ออกไปก่อน เนื่องจากเป็น assembly ที่ไม่จำเป็นต่อการทำงานของโปรแกรม 
+ *  ให้ลบ source code ในบรรทัดที่ 2-5 ออกไปก่อน เนื่องจากเป็น assembly ที่ไม่จำเป็นต่อการทำงานของโปรแกรม
+ 
+ ผลการทดลอง
+ 
+ ![](https://github.com/rungtip214/LAB-04/blob/master/imgs/Capture4.PNG?raw=true)
 
 ## 1. การทดลองเมดธอด Console.Write()
 * ให้เพิ่ม บรรทัดต่อไปนี้ลงไปในในเมธอด Main()
