@@ -70,22 +70,19 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 บันทึกผลที่ได้จากการรันโปรแกรม
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+จะเกิดการตัดขึ้นบรรทัดใหม่
+
+![](https://github.com/rungtip214/LAB-04/blob/master/imgs/Capture7.PNG?raw=true)
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้
 
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P6.png)
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+จะเกิดการตัดขึ้นบรรทัดใหม่
+
 
 ###คำถาม 4.2
 
