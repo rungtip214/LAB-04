@@ -49,16 +49,16 @@
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
 
+จะขึ้นหน้าต่าง Helloworldpress any key to continue ดังรูป
+
+![](https://github.com/rungtip214/LAB-04/blob/master/imgs/Capture6.PNG?raw=true)
 
 
 ### คำถาม 4.1 
 
 ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร  จงอธิบาย
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+เป็นไปตามที่คิด คือ จะมีคำว่าworldต่อท้ายhello
 
 
 ## 2. การทดลองเมดธอด Console.WriteLine()
