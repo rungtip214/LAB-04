@@ -99,5 +99,5 @@
 
 ##สรุปผลการทดลอง
 
-คำสั่งConsole.Write()กับConsole.WriteLine() ใช้งานแตกต่างกันคือ ถ้าเป็นConsole.Write()จะไม่มีการเว้นปรรทัด ส่วนConsole.WriteLine() จะมีการตัดขึ้นบรรทัดใหม่
+คำสั่งConsole.Write()กับConsole.WriteLine() ใช้งานแตกต่างกันคือ ถ้าเป็นConsole.Write()จะไม่มีการเว้นบรรทัด ส่วนConsole.WriteLine() จะมีการตัดขึ้นบรรทัดใหม่
 
