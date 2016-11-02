@@ -83,30 +83,21 @@
 
 จะเกิดการตัดขึ้นบรรทัดใหม่
 
+![](https://github.com/rungtip214/LAB-04/blob/master/imgs/Capture8.PNG?raw=true)
 
 ###คำถาม 4.2
 
 ผลที่ได้จากการทดลอง เป็นอย่างที่นักศึกษาคิดหรือไม่ อย่างไร  จงอธิบาย
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+ป็นไปตามที่คิด คือ จะมีคำว่าworldต่ออีกบรรทัดของhello
 
 ### คำถาม 4.3 
 
 จงอธิบายความแตกต่างระหว่างคำสั่ง Console.Write() และ Console.WriteLine()
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+ถ้าเป็นConsole.Write()จะไม่มีการเว้นปรรทัด ส่วนConsole.WriteLine() จะมีการตัดขึ้นบรรทัดใหม่
 
 ##สรุปผลการทดลอง
 
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+คำสั่งConsole.Write()กับConsole.WriteLine() ใช้งานแตกต่างกันคือ ถ้าเป็นConsole.Write()จะไม่มีการเว้นปรรทัด ส่วนConsole.WriteLine() จะมีการตัดขึ้นบรรทัดใหม่
 
