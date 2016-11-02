@@ -37,11 +37,10 @@
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 
 ####บันทึกผลการทดลอง
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+
+จะขึ้นหน้าต่าง Hellopless any key to continue ดังรูป
+
+![](https://github.com/rungtip214/LAB-04/blob/master/imgs/Capture5.PNG?raw=true)
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้    
 
